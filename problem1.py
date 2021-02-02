@@ -1,6 +1,6 @@
 # Chapter 2  :  problem 2
 
-# write a program that uses input to ask a user for their and then welcomes them.
+# write a program that prompts the user for their name and then welcomes them.
 
 name = input("What is you name ? ")
 
