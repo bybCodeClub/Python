@@ -1,11 +1,9 @@
 ﻿# community-projects
-With this repo is we are going to be solving problem from the Book
+With this repo we are going to be solving problem from the Book
 Python for Everybody: Exploring Data Using Python 3  by Charles Severance
 
-
-
 This repo is also here to help anyone new to python, by providing resourses suchs as free beginner videos, books containing simple problems in python,
-podcasts, and so much more.
+podcasts you can listen to, and much more.
 We know that programming can be vert dificult to learn, thus we wanted to provide a step by step guide on how we learned python.
 
 
