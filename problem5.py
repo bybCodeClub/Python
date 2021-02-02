@@ -1,4 +1,4 @@
- build a simple Celsius into fahrenheit converter.
+ # write a program which prompts the user for a Celicus temperature then converts that number to fahrenheit
 
 
 celsius = int(input("What is the temperature in Celicus? "))
