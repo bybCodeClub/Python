@@ -10,7 +10,7 @@ while True:
         break
 
     except:
-        print("Error: Please only use number 1-9")
+        print("Oops, Please only use numbers 1-9")
 
 
 
@@ -20,7 +20,7 @@ while True:
         break
     
     except:
-        print("Error: Please only use numbers 1-9")
+        print("Oops, Please only use numbers 1-9")
 
 
 paycheck = (work_hours * pay_rate)
