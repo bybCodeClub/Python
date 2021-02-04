@@ -1,3 +1,5 @@
+# Chapter 3, Excerise 3
+
 # write a file that prompts for a score between 0 - 100
 # if score is out of range print an error message, and convert the numbers to a letter grade
 # print grades using the following table 
