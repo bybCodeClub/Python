@@ -4,7 +4,7 @@ Python for Everybody: Exploring Data Using Python 3  by Charles Severance
 
 Youtuber Aksonai has a online tutorial that shows you how he solves all of the problems here https://www.youtube.com/watch?v=2mtEE4rN4Wk 
 
-Note: I tried to solve these problems on my own without following along side Aksonai, and would only look at how he would solve each problem, only if
+Note: I tried to solve all these problems on my own without following along side Aksonai, and would only look at how he would solve a problem, only if
 I got stuck, or to check my work.
 
 This repo is also here to help anyone new to python, by providing resourses suchs as free beginner videos, books containing simple problems in python,
