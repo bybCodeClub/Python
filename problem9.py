@@ -6,7 +6,7 @@
 
 def computepay(hours, rate):
     if hours <= 40:
-        print(f"You pay this week is ${hours * rate} dollars")
+        print(f"Your pay this week is ${hours * rate} dollars")
 
     elif hours >40:
         print(f"Your weekly check is ${((hours - 40) * rate * 1.5) + (hours * rate)} dollars") 
