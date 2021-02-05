@@ -4,15 +4,12 @@
 # create a function called computepay which takes two paramaters (hour, rate)
 
 
-
 def computepay(hours, rate):
     if hours <= 40:
         print(f"You pay this week is ${hours * rate} dollars")
 
     elif hours >40:
         print(f"Your weekly check is ${((hours - 40) * rate * 1.5) + (hours * rate)} dollars") 
-
-
 
 computepay(40,10)      # this is how you call a function in python
 computepay(55,10)
