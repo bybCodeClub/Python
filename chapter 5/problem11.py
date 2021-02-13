@@ -1,4 +1,4 @@
-
+# chapter 5: Exercise 1
 
 # write a program which repeatedly reads numbers until user enters "done". 
 # once done is entered, print out the total, count and average of the numbers. If the user enter anything other then a number,
