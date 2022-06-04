@@ -38,12 +38,12 @@ while num != "exit":
 
 # The try block
 # The first vairable asks you to input a number... This input was purposfully not made an int to get around the value error in the except block
-# The we made another vairable named number, that was in int() to make the input variable a int, without it messing up the except block. Remember if you int the input "exit"
+# After I made another vairable named number, that was an int() to make the input variable a int, without it messing up the except block. Remember if you int the input "exit"
 # as the keyword that ends the loop, is going to be a problem because "exit" is a string not a int, which is why we created a secondary vairable. 
 # Then lastly any number that is added to the number vairable is appended to the empty list.
 
 # The except block:
 # valueerror is the type of error we are accounting for, in case python runs into a valueError then we want python to handle it a certain way 
-# In our case if the "exit" is typed in the we want to print out the sum of the list and the average number of that list.
+# In our case if "exit" is typed in the we want to print out the sum of the list and the average number of that list.
 
 # The the else statement handles any string values entered into a int list.
