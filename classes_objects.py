@@ -1,7 +1,7 @@
 # classes and objects in python
 # you can think of a class as a basic blueprints in which you can create multipule  instences /objects from.
 
-# it's another data structure kinda similar to arrays or linked lists, but you can create real world object via code. 
+# it's another data structure kinda similar to arrays or linked lists, but you can create real world object with code. 
 
 # to create a class /  
 import email
