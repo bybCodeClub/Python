@@ -4,8 +4,6 @@
 # it's another data structure kinda similar to arrays or linked lists, but you can create real world object with code. 
 
 # to create a class /  
-import email
-
 
 class ex_girlfriends:
     def __init__(self, her_name, years_dated, Why_broke_up) -> None:
