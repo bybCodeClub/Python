@@ -12,13 +12,13 @@ class ex_girlfriends:
         self.Why_broke_up   = Why_broke_up
 # def is how you create a function in python
 # __init__ helps localize each object / instence meaning.. the "self" keyword is used by each instence and refers to itself, (yes kinda confusing)
-# but the self keyword help seperate multipul instences / objects from one another 
+# but the self keyword help seperate multiple instences / objects from one another 
  
        
 
 # this is how you create instences / objects that can use the class bule print.  
-girl1 = ex_girlfriends("Stacey", "12", "He was too much man for me to hanlde")
-girl2 = ex_girlfriends("Kelly", 33, "he was too perfect" )
+girl1 = ex_girlfriends("Stacey", "33", "He was too much man for me to hanlde")
+girl2 = ex_girlfriends("Kelly", 1, "he was too perfect" )
 girl3 = ex_girlfriends("Monica", 2, "I found someone better")
 
 print(f"Hello my name is " + girl1.her_name + " And I dated Michael for " + girl1.years_dated + " years, but " + girl1.Why_broke_up )
